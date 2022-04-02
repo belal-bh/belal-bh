@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/belal-bh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@belal-bh" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/belal-bh/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@belal_bh" height="30" width="40" /></a>
+    <a href="https://leetcode.com/belal_bh/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@belal_bh" height="30" width="40" /></a>
 </p>
 
 <!--
