@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![overview](https://github.com/belal-bh/belal-bh/blob/master/generated/overview.svg)](https://github.com/belal-bh)
-[![languages](https://github.com/belal-bh/belal-bh/blob/master/generated/languages.svg)](https://github.com/belal-bh?tab=repositories&q=&type=public&language=&sort=stargazers)
+[![overview](https://github.com/belal-bh/belal-bh/blob/main/generated/overview.svg)](https://github.com/belal-bh)
+[![languages](https://github.com/belal-bh/belal-bh/blob/main/generated/languages.svg)](https://github.com/belal-bh?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 </div>
 
