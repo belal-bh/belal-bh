@@ -7,6 +7,23 @@
 
 </div>
 
+<h1 align="center">Hi! Hello 👋, I'm Md. Belal Hossain</h1>
+<h3 align="center">git commit -m "I'm a Software Engineer Mainly focused on Web development and Machine learning 🧑‍🔧"</h3>
+
+- 🌱 I’m currently learning about **Machine learning and Kubernetes**
+- 💬 Ask me about **Python, Django, Computer Vision, Web development**
+- 📫 How to reach me **belal.cseai@gmail.com**
+
+### What can I help with:question::
+
+<code>git commit -m "Pretty much on the Web development and Machine Learning"</code>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/belal-bh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@belal-bh" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/belal-bh/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@belal_bh" height="30" width="40" /></a>
+</p>
+
 <!--
 **belal-bh/belal-bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
