@@ -59,7 +59,7 @@ jobs:
     - name: Commit to the repo
       run: |
         git config --global user.name "belal-bh"
-        git config --global user.email "bh.pro.pust@gmail.com"
+        git config --global user.email "belal.cseai@gmail.com"
         git add generated/.
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Update generated files' || echo
