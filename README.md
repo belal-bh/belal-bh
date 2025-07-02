@@ -64,7 +64,7 @@ Pabna University of Science and Technology (PUST)
   *Islam, Md Monirul; Hossain, Md Belal et al.*  
   _Algorithms_, MDPI, 2022.
 
-- **[Electrocardiogram signal analysis based on statistical approaches using K-nearest neighbor](https://link.springer.com/chapter/10.1007/978-3-030-93551-9_13)**  
+- **[Electrocardiogram signal analysis based on statistical approaches using K-nearest neighbor](https://link.springer.com/chapter/10.1007/978-3-031-17181-9_12)**  
   *Alam, Mahmudul; Hossain, Md Belal et al.*  
   _International Conference on Bangabandhu and Digital Bangladesh_, Springer, 2021.
 
